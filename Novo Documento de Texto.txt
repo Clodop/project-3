@@ -1,1 +1,13 @@
-teste qualquer
+trocar de pastas no git bash cd /pasta/pasta/
+tem que sempre fazer o "cd" + espaço /nomedapasta
+
+#para comitar
+git add .
+git commit -m "descrição do commit"
+
+#Para enviar
+git push
+
+#Para pegar 
+git pull
+
